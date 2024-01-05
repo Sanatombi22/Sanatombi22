@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi👋, I'm Sana
+🔭 I’m currently working on Web Development projects
+🌱 I’m currently learning ...
 <!--
 **Sanatombi22/Sanatombi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
